@@ -1,0 +1,8 @@
+ELFReader.py
+README.md
+setup.py
+ELFReader.egg-info/PKG-INFO
+ELFReader.egg-info/SOURCES.txt
+ELFReader.egg-info/dependency_links.txt
+ELFReader.egg-info/requires.txt
+ELFReader.egg-info/top_level.txt
